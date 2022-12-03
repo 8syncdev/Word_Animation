@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+section
+{
+    position: relative;
+    display: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #120e1d;
+}
+section .name-kilop
+{
+    position: relative;
+    text-align: center;
+    margin: 60px;
+}
+section .word-F
+{
+    position: relative;
+    text-align: center;
+    color: #91e0f1;
+    margin: 40px;
+    max-width: 650px;
+}
+
+section .word-F span
+{
+    position: relative;
+    display: inline-block;
+}
